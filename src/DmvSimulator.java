@@ -8,7 +8,7 @@ public class DmvSimulator {
         for (int i = spot+1; i<201;i++) System.out.println("Calling number " + i + "...");
         for (int i = 1; i<spot+1;i++) System.out.println("Calling number " + i + "...");
         if ((int)(Math.random()*100) != 50)
-	    	System.out.println("Acquaintance, no papers? Get out of here you miserable worm!!!!");
+	    	System.out.println("Acquaintance, no papers? Get out of here you miserable worm!!!! *maniacal laughter ensues*");
         else System.out.println("Aight, you good.");
   	}
 }
