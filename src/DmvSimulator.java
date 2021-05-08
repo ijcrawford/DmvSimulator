@@ -7,6 +7,6 @@ public class DmvSimulator {
                 "Number " + spot + "! Yeah.");
         for (int i = spot+1; i<201;i++) System.out.println("Calling number " + i + "...");
         for (int i = 1; i<spot+1;i++) System.out.println("Calling number " + i + "...");
-	    	System.out.println("Acquaintance, no papers? Get out of here you miserable worm!!!!");
+	    	System.out.println("Acquaintance, no papers? Get out of here you miserable worm!!!! *maniacal laughter ensues*");
   	}
 }
